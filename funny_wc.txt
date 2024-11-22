@@ -1,0 +1,11 @@
+1. What do you call a pony with a cough?
+wordcount: 10
+wordcount: 1A little horse.
+wordcount: 3
+wordcount: 12. What did one hat say to the other?
+wordcount: 9
+wordcount: 1You wait here. I’ll go on a head.
+wordcount: 8
+wordcount: 13. What do you call a magic dog?
+wordcount: 8
+wordcount: 1A labracadabrador.wordcount: 2
